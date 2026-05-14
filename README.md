@@ -22,6 +22,11 @@ The dashboard uses the provided datasets to visualize revenue, profit, product c
 * `Details.csv`: `Order ID`, `Amount`, `Profit`, `Quantity`, `Category`, `Sub-Category`, `PaymentMode`
 * `Orders.csv`: `Order ID`, `Order Date`, `CustomerName`, `State`, `City`
 
+## Additional documentation
+
+* `analysis-summary.md` — coded summary of dataset insights and recommendations
+* `DATA_DICTIONARY.md` — definitions for each dataset field
+
 ## Tools
 
 * Microsoft Power BI Desktop
